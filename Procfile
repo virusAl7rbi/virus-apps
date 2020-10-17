@@ -1,1 +1,0 @@
-web: gunivorn app:app
